@@ -46,7 +46,7 @@ Hand Cricket is an innovative computer vision-based game that brings the classic
 ## Screenshots 📸
 
 ### Game Start Screen
-![Main Page](main.png)
+![Main Page](mainpage.png)
 
 
 ### Game Over Screen
