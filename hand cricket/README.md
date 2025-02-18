@@ -3,11 +3,6 @@
 ## Description
 Hand Cricket is an innovative computer vision-based game that brings the classic cricket experience to your computer! Using your webcam, the game detects hand gestures to play cricket in a fun and interactive way. This project combines computer vision technology with the excitement of cricket, making it accessible and enjoyable for everyone.
 
-## Demo 🎥
-
-![Game Screenshot](demo.png)  
-*Example of gameplay interface*
-
 ## How to Play ✋
 
 1. **Gesture Recognition**: Show numbers 1-6 using your fingers to play
@@ -51,11 +46,11 @@ Hand Cricket is an innovative computer vision-based game that brings the classic
 ## Screenshots 📸
 
 ### Game Start Screen
-![Main Page](hand%20cricket/main%20page.png)
+![Main Page](main.png)
 
 
 ### Game Over Screen
-![Game Over](hand%20cricket/gameover.png)
+![Game Over](gameover.png)
 
 ## Game Rules 📜
 
@@ -63,12 +58,6 @@ Hand Cricket is an innovative computer vision-based game that brings the classic
 - If your number matches the computer's while batting, you're out
 - While bowling, if your number matches the computer's, the computer is out
 - The player with the highest score wins!
-
-## Screenshots 📸
-
-| Batting Mode | Bowling Mode | Game Over Screen |
-|--------------|--------------|------------------|
-| ![Batting](batting.png) | ![Bowling](bowling.png) | ![Game Over](gameover.png) |
 
 ## Contributing 🤝
 
