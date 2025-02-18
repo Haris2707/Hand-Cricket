@@ -47,10 +47,11 @@ Hand Cricket is an innovative computer vision-based game that brings the classic
 ## Screenshots 📸
 
 ### Game Start Screen
-![Main Page](mainpage.png)
+![Main Page](hand%20cricket/mainpage.png)
+
 
 ### Game Over Screen
-![Game Over](gameover.png)
+![Game Over](hand%20cricket/gameover.png)
 
 ## Game Rules 📜
 - Numbers 1-6 are valid gestures
