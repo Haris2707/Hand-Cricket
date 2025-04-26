@@ -57,7 +57,7 @@ Hand Cricket is an innovative computer vision-based game that brings the classic
 - Numbers 1-6 are valid gestures
 - If your number matches the computer's while batting, you're out
 - While bowling, if your number matches the computer's, the computer is out
-- The player with the highest score wins!
+- The player with the highest score wins!!
 
 ## Contributing 🤝
 Contributions are welcome! Please follow these steps:
